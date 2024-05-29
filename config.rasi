@@ -1,6 +1,7 @@
 /** Basic config file **/
 
 configuration {
+  font: "CaskaydiaCove Propo 12";
   show-icons: true;
   /*icon-theme: "Papirus";*/
   display-drun: "";
