@@ -1,11 +1,12 @@
 /** Basic config file **/
 
 configuration {
-  modes: "drun,run,window";
+  modes: "combi";
   show-icons: true;
   /*icon-theme: "Papirus";*/
   display-drun: "";
   display-window: "﩯 ";
   display-combi: "  ";
+  combi-modes: "drun,window, run, keys";
 }
 @theme "themes/sidetab-nord.rasi"
